@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Hannah Milleson
+## Author: Your_First_Name Your_Last_Name
